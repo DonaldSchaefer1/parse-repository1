@@ -1,0 +1,9 @@
+{
+    "PHS_HOST_ADDRESS": "127.0.0.1",
+    "PHS_PORT": 5000,
+    "PHS_API_VERSION":"/v1",
+    "LOGGING_LEVEL":2,
+    "PHS_SCHEME": "HTTP",
+    "REALM":"Restricted",
+    "PHS_REGISTRATION_ENDPOINT":"/register"
+}
